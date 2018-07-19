@@ -1,0 +1,14 @@
+membuat repo baru
+
+$ git init
+
+setting nama & email pada config
+
+$ git config user.name "larasati"
+$ git config user.email "larasangaji120@gmail.com"
+
+melihat status perubahan file
+
+$ git status
+
+menambah file ke stage commit 
